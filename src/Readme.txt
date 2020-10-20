@@ -1,5 +1,7 @@
-    * Get things started by opening the Package Manager console and run: Update-Database.
-    * Fix bug that you can´t update Genre to handle space between characters
+    * Make sure that you have Visual Studio 2019 installed.
+    * Compile the project, there should be no errors
+    * Get things started by opening the Package Manager console / powershell and run: Update-Database.
+    * Fix bug that you can´t update Genre to handle space between characters and more than 5 characters
     * Verify that ResetRating functionality works, update sql query if necessary, do not change to Entity Framework
     * Verify that ResetGenre stored procedure functionality works, update stored procedure if necessary, do not change to Entity Framework
     * Clean up code, remove unused usings

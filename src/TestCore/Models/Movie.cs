@@ -39,5 +39,7 @@ namespace TestCore.Models
 
         public string ert { get; set; }
         public string qwe { get; set; }
+
+        public string retest { get; set; }
     }
 }

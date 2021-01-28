@@ -41,5 +41,7 @@ namespace TestCore.Models
         public string qwe { get; set; }
 
         public string retest { get; set; }
+
+        public string timeToFinalTest { get; set; }
     }
 }

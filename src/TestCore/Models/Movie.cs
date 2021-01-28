@@ -33,6 +33,8 @@ namespace TestCore.Models
 
         public string property { get; set; }
 
+        public string property1 { get; set; }
+
         public string property2 { get; set; }
     }
 }

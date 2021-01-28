@@ -32,5 +32,7 @@ namespace TestCore.Models
         public string Rating { get; set; }
 
         public string property { get; set; }
+
+        public string property2 { get; set; }
     }
 }
